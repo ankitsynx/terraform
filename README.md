@@ -1,4 +1,4 @@
-# github
+# Terraform
 This terraform script deploys an Ubuntu Workstation with minimal additional software
 installed. An example use case if a temporary sandbox system for surfing potentially
 dangerous websites. _NOTE: Don't break the law, as AWS Terms of Service still apply
